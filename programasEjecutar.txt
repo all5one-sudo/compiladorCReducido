@@ -1,0 +1,86 @@
+int main() {
+    int y;
+    int x = 10;
+    int o, p, r, s;
+    int a = 1, b = 2, c = 3;
+    int w, t = 3, j = 0, i;
+    w = a * b + c / 2;
+}
+
+----------------------------------------------
+
+int main() {
+    int x = 0;
+    int i;
+    int a = 5;
+    int f = 2;
+    for (i = 0; i < 4; i = i + 1) {
+        f = 2*f;
+    }
+    if (a < 3) {
+        x = 5*2+7/9;
+    }
+    else {
+        x = f*3-5/2+6;
+    }
+}
+
+----------------------------------------------
+
+int main() {
+    int x = 4;
+    int b = 2;
+    int i = 0;
+    while (i < x) {
+        b = b + i;
+        i = i + 1;
+    }
+    if (i < 10) {
+        b = 5 * 4 + 2 / 8 - 4;
+    }
+}
+
+----------------------------------------------
+
+int suma (int, int); 
+
+int main () {
+    int y;
+    int x = 10;
+    int o, p, r, s;
+    int a = 1, b = 2, c = 3;
+    int w, t = 4, j = 0, i;
+    i = 5 - t * j + c;
+    y = suma(x, 5); 
+    if (y == 10) {
+        int z = 4;
+        z = z + x;
+    } 
+    else {
+        int hola = 1;
+    }
+
+    return 0;
+}
+
+-------------------------------------------
+
+int suma (int, int); 
+
+int main () {
+    int y;
+    int x = 10;
+    int o, p, r, s;
+    int a = 1, b = 2, c = 3;
+    int w, t = 4, j = 0, i;
+    i = 5 - t * j + c;
+    if (y == 10) {
+        int z = 4;
+        z = z + x;
+    } 
+    else {
+        int hola = 1;
+    }
+
+    return 0;
+}

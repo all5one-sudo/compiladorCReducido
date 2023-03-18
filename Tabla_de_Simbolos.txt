@@ -1,0 +1,17 @@
+String&Nombre&TipoDato&Inicializado&Expresion&Valor&Usado
+a&a&INT&true&null&1&false
+b&b&INT&true&null&2&false
+c&c&INT&true&null&3&true
+i&i&INT&true&5-t*j+c&8&false
+j&j&INT&true&null&0&true
+suma(int,int)&suma(int,int)&INT&false&null&null&false
+hola&hola&INT&true&null&1&false
+o&o&INT&false&null&null&false
+p&p&INT&false&null&null&false
+r&r&INT&false&null&null&false
+s&s&INT&false&null&null&false
+t&t&INT&true&null&9&true
+w&w&INT&false&null&null&false
+x&x&INT&true&null&10&true
+y&y&INT&true&null&suma(x,5)&false
+z&z&INT&true&z+x&14&true
